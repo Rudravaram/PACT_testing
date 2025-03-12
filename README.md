@@ -2,7 +2,7 @@
 
 PACT Testing, or Consumer-Driven Contract Testing, is a technique used to ensure that services (such as microservices) interact with each other correctly. It focuses on testing the interactions between services by defining and verifying contracts between them.
 
-<img src="https://github.com/user-attachments/assets/c9869199-dbb0-41e4-a876-cca63b9e05b6" alt="Landscape Image 2">
+<img src="https://github.com/user-attachments/assets/47eb9ab1-eb3f-4279-9bb0-58cf4e6838bc" alt="Landscape Image 2">
 
 ### Key Concepts of PACT Testing
 
